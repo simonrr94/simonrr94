@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I’m Lauren 👋
 
-<!--
-**simonrr94/simonrr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a design-led frontend builder exploring creative coding, interactive UX, and modern web tools.
 
-Here are some ideas to get you started:
+My background is in interior and visual design, and I’m increasingly focused on translating those principles into digital experiences — clarity, flow, and intentional interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m working on
+- Vibe-coded web experiments and interactive UI
+- Design-first frontend projects
+- Campaign-style and shareable digital experiences
+
+### Tools & Technologies
+HTML • CSS • JavaScript • Framer • GitHub • Vercel • AI-assisted workflows
+
+### Featured Project
+🔗 **Virtual Holiday Greeting Card Generator**  
+A playful web experiment exploring generative design, animation, and shareable UX.  
+→ *(link to repo or live site)*
+
+---
+
+📍 Open to frontend, creative tech, and design-adjacent roles
